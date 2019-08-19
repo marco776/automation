@@ -1,0 +1,24 @@
+2019-08-15 22:24:50,936 - BrowserEngine - INFO - You had select Chrome browser. 
+2019-08-15 22:24:50,936 - BrowserEngine - INFO - The test server url is http://www.baidu.com 
+2019-08-15 22:24:53,756 - BrowserEngine - INFO - Starting Chorme browser 
+2019-08-15 22:24:54,984 - BrowserEngine - INFO - Open url http://www.baidu.com 
+2019-08-15 22:24:54,985 - BrowserEngine - INFO - Set implicitly wait 10 seconds 
+2019-08-15 22:24:55,017 - BasePage - INFO - Had find the element '  ' successfulby id via value:kw 
+2019-08-15 22:24:55,157 - BasePage - INFO - Had type ' selenium ' in inputBox 
+2019-08-15 22:24:55,183 - BasePage - INFO - Had find the element '  ' successfulby xpath via value://*[@id='su'] 
+2019-08-15 22:24:55,247 - BasePage - INFO - The emement was click 
+2019-08-15 22:24:57,598 - BasePage - INFO - Had take screenshot and save to folder : /screenshots 
+2019-08-15 22:24:57,603 - BasePage - INFO - Current page title is selenium_百度搜索 
+2019-08-15 22:24:57,608 - BaiduSearch - INFO - Test Pass 
+2019-08-15 22:24:59,886 - BrowserEngine - INFO - You had select Chrome browser. 
+2019-08-15 22:24:59,886 - BrowserEngine - INFO - The test server url is http://www.baidu.com 
+2019-08-15 22:25:02,077 - BrowserEngine - INFO - Starting Chorme browser 
+2019-08-15 22:25:03,076 - BrowserEngine - INFO - Open url http://www.baidu.com 
+2019-08-15 22:25:03,078 - BrowserEngine - INFO - Set implicitly wait 10 seconds 
+2019-08-15 22:25:03,107 - BasePage - INFO - Had find the element '  ' successfulby id via value:kw 
+2019-08-15 22:25:03,227 - BasePage - INFO - Had type ' python ' in inputBox 
+2019-08-15 22:25:03,256 - BasePage - INFO - Had find the element '  ' successfulby xpath via value://*[@id='su'] 
+2019-08-15 22:25:03,328 - BasePage - INFO - The emement was click 
+2019-08-15 22:25:05,689 - BasePage - INFO - Had take screenshot and save to folder : /screenshots 
+2019-08-15 22:25:05,693 - BasePage - INFO - Current page title is python_百度搜索 
+2019-08-15 22:25:05,699 - BaiduSearch - INFO - Test Pass 
